@@ -24,10 +24,10 @@ function NavBar(props) {
     <Navbar bg="light" expand="lg" sticky="top">
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
-      <Link to='/'><Navbar.Brand >Khounti Shop</Navbar.Brand></Link>
+      <Link to='/'><Navbar.Brand >Mathe Sfenj Shop</Navbar.Brand></Link>
 
       <Container>
-        <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+        <FormControl type="text" placeholder="9leb 3la sfenja dialk" className="mr-sm-2" />
         <Row className="w-100">
           <Col md={8} sm={6} className="container">
             <Navbar.Collapse id="basic-navbar-nav">
