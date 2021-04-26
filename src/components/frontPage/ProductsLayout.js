@@ -15,22 +15,22 @@ function ProductsLayout(props) {
     {
       slug: "product1",
       id: 0,
-      title: "NMD_R1 SHOES",
+      title: "sfenja dial lfo9ara",
      
       categories:["shoes","newarrivals","women","new arrivals"],
       price: 195.95,
       imageUrl:
-        "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto:sensitive,fl_lossy/9c8c09c992ae488a94b1ac92009bbf49_9366/ultraboost-21-shoes.jpg",
+        "https://mysite.ma/wp-content/uploads/2014/04/002.png",
     },
     {
       id: 1,
       slug: "product2",
-      title: "NMD_R545 SHOES",
+      title: "sfenja dial l2aghniya2",
       price: 1249.95,
       
       categories:["shoes","newarrivals","women"],
       imageUrl:
-        "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto:sensitive,fl_lossy/9061a7718c7843668f17ac8a006c6b22_9366/ultraboost-21-shoes.jpg",
+        "https://wasfh.net/wp-content/uploads/2020/01/d988d8b5d981d8a9-d8b9d985d984-d8a7d984d8b3d981d986d8ac-d8a7d984d985d8bad8b1d8a8d98a-d988d8b5d981d8a9-d8b3d987d984d8a9-d988d8b3d8b1d98a_5e2128b8a83f5.jpeg",
     },
     {
       id: 2,
