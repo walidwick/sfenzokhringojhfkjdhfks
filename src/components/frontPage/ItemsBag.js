@@ -73,13 +73,7 @@ function ItemBag(props) {
                             <h5>price: <b>${item.price}</b></h5>
                           </div>
                           <div className="product-quantity">
-                            <h5>Quantity: <b>{item.quantity}</b></h5>
-                          </div>
-                          <div className="product-size">
-                            <h5>size: <b>{item.size}</b></h5>
-                          </div>
-                          <div className="product-color">
-                            <h5>color: <b>{item.color}</b></h5>
+                            <h5>Ch7al mn Kilo: <b>{item.quantity}</b></h5>
                           </div>
                           <Button onClick={removeButtonClicked} index={index} variant="light" className="border ">remove <span className="text-danger">X</span></Button>
                         </Col>
