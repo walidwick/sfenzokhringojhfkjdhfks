@@ -17,7 +17,7 @@ function ProductsLayout(props) {
       id: 0,
       title: "sfenja dial lfo9ara",
      
-      categories:["shoes","newarrivals","women","new arrivals"],
+      categories:["Sfenj","tops","sfenj","new arrivals"],
       price: 0.5,
       imageUrl:
         "https://mysite.ma/wp-content/uploads/2014/04/002.png",
@@ -28,7 +28,7 @@ function ProductsLayout(props) {
       title: "sfenja dial l2aghniya2",
       price: 5.10,
       
-      categories:["shoes","newarrivals","women"],
+      categories:["Sfenj","tops","sfenj","new arrivals"],
       imageUrl:
         "https://wasfh.net/wp-content/uploads/2020/01/d988d8b5d981d8a9-d8b9d985d984-d8a7d984d8b3d981d986d8ac-d8a7d984d985d8bad8b1d8a8d98a-d988d8b5d981d8a9-d8b3d987d984d8a9-d988d8b3d8b1d98a_5e2128b8a83f5.jpeg",
     },
