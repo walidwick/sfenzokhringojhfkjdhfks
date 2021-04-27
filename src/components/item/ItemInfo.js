@@ -89,7 +89,7 @@ function ItemInfo() {
                   <h3>{product.title}</h3>
                   <h5>${product.price}</h5>
                   <Form.Group className="mt-5" controlId="formBasicInfo">
-                    <Form.Label>Quantity</Form.Label>
+                    <Form.Label>Ch7al mn Kilo</Form.Label>
                     <br />
                     <Form.Control
                       className="w-25 "
@@ -104,39 +104,10 @@ function ItemInfo() {
                       <option>4</option>
                       <option>5</option>
                       <option>6</option>
-                    </Form.Control>
-                    <br />
-                    <Form.Label>Color</Form.Label>
-                    <br />
-                    <Form.Control
-                      className="w-25 "
-                      as="select"
-                      size="md"
-                      custom
-                      onChange={setMyColor}
-                    >
-                      <option>#</option>
-                      <option>black</option>
-                      <option>blue</option>
-                      <option>green</option>
-                      <option>red</option>
-                    </Form.Control>
-                    <br />
-                    <Form.Label>Size</Form.Label>
-                    <br />
-                    <Form.Control
-                      className="w-25 "
-                      as="select"
-                      size="md"
-                      custom
-                      onChange={setMySize}
-                    >
-                      <option>#</option>
-                      <option>s</option>
-                      <option>m</option>
-                      <option>lg</option>
-                      <option>xl</option>
-                      <option>xxl</option>
+                      <option>7</option>
+                      <option>8</option>
+                      <option>9</option>
+                      <option>10</option>
                     </Form.Control>
                   </Form.Group>
 
