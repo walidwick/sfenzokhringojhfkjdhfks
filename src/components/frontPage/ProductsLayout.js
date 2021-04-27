@@ -64,40 +64,28 @@ function ProductsLayout(props) {
       <Link to="/">
       
         </Link>
-        <Link to="/women">
+        <Link to="/sfenj">
           <Button
             className={
-              category === "women"
+              category === "sfenj"
                 ? "ml-2 font-weight-bold text-uppercase"
                 : "ml-2  text-uppercase"
             }
             variant="light"
           >
-            Women
+            Sfenj
           </Button>
         </Link>
-        <Link to="/men">
+        <Link to="/soon">
           <Button
             className={
-              category === "men"
+              category === "coming-soon"
                 ? "ml-2 font-weight-bold text-uppercase"
                 : "ml-2  text-uppercase"
             }
             variant="light"
           >
-            Men
-          </Button>
-        </Link>
-        <Link to="/kids">
-          <Button
-            className={
-              category === "kids"
-                ? "ml-2 font-weight-bold text-uppercase"
-                : "ml-2  text-uppercase"
-            }
-            variant="light"
-          >
-            Kids
+            Coming Soon
           </Button>
         </Link>
 
@@ -118,17 +106,14 @@ function ProductsLayout(props) {
 function loadSubCategory(param,setFilterBy) {
   if(param){
     return (<div>
-    <Button onClick={()=>setFilterBy("shoes")}  variant="white" className="ml-1 border ">
-    SHOES
+    <Button onClick={()=>setFilterBy("Sfenj")}  variant="white" className="ml-1 border ">
+    SFENJ
     </Button>
     <Button onClick={()=>setFilterBy("tops")}  variant="white" className="ml-1 border">
     TOPS
     </Button>
-    <Button onClick={()=>setFilterBy("pants and tights")}  variant="white" className="ml-1 border">
-    PANTS AND TIGHTS
-    </Button>
     <Button onClick={()=>setFilterBy("new arrivals")}  variant="white" className="ml-1 border">
-    NEW ARRIVALS
+    AKHIR MA KHREJ F SOU9
     </Button>
   
     </div>)
