@@ -6,7 +6,7 @@ function Slider() {
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://www.portotheme.com/shopify/porto/documentation/assets/images/sections/banner-slider-content.jpg"
+        src="https://media.discordapp.net/attachments/621099308694896660/818931236101816371/FB_IMG_1615303410118.jpg"
         alt="First slide"
       />
       <Carousel.Caption>
@@ -17,7 +17,7 @@ function Slider() {
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://www.epcc.co/image/cache/catalog/slider/slider3-sneaker1-1920x685.jpg"
+        src="https://media.discordapp.net/attachments/621099308694896660/816269976469766175/FB_IMG_1613171204310.jpg"
         alt="Second slide"
       />
   
@@ -28,7 +28,7 @@ function Slider() {
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://lh3.googleusercontent.com/L62MWaSKQK4VkgZ4HbBiYTAN_JxQ-4ZQBhOLTDDnKHXxZW4-gZ72KoVeKVGjprSBMOLWyNHLlHg2tlzK7xL5-G3KDQ8=w1000"
+        src="https://clips-media-assets2.twitch.tv/AT-cm%7C1026917548-preview-260x147.jpg"
         alt="Third slide"
       />
   
