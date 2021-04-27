@@ -1,5 +1,5 @@
 {
-  "short_name": "khounti shop",
+  "short_name": "Mathe Sfenj Shop",
   "name": "e-commerce app",
   "icons": [
     {
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#955E09",
   "background_color": "#ffffff"
 }
