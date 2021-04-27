@@ -33,7 +33,7 @@ function App() {
         </ProductsContext.Provider>
         <Switch>
           <Route exact path="/">
-            <Redirect to="/women" />
+            <Redirect to="/sfenj" />
           </Route>
           <Route path="/item/:slug">
             <AddToBasket.Provider value={{ myProductCount }}>
